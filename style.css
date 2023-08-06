@@ -1,0 +1,20 @@
+.message {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    background-color: aqua;
+  }
+  .head{
+    background-color: rgb(156, 30, 210);
+    font-family: 'Times New Roman', Times, serif;
+    
+  }
+  .c1{
+    background-color: bisque;
+  }
+  .c2{
+    background-color: rgb(227, 167, 76);
+  }
+  .card{
+    background-color:rgb(205, 192, 50) ;
+  }
